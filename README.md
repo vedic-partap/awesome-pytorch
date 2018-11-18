@@ -13,6 +13,7 @@ This project aims to develop a useful resource for learning Deep Learning and Re
 1. Convolutional Neural Network
 2. Deep Recurrent Neural Network 
 3. Bidirectional LSTM
+4. Cross-Lingual Word Vectors
 
 ### Advance ###
 1. Variational Auto-encoder Decoder 
