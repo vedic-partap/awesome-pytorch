@@ -23,6 +23,8 @@ This project aims to develop a useful resource for learning Deep Learning and Re
 4. Caption Generator
 5. Image Segmentation
 
+Note : Plan for RL is  yet to decide 
+
 ## Dependencies ##
 
 **Recommended**
