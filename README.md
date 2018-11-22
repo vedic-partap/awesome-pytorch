@@ -21,7 +21,7 @@ This project aims to develop a useful resource for learning Deep Learning and Re
 2. GANS
 3. Cross-Lingual Word Vectors
 
-## Cool Stuf !! ##
+### Cool Stuf !! ###
 1. Translation with a Sequence to Sequence Network and Attention
 2. Style Transfer 
      1.  For Images 
