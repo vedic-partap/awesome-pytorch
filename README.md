@@ -15,16 +15,21 @@ This project aims to develop a useful resource for learning Deep Learning and Re
 1. Convolutional Neural Network
 2. Deep Recurrent Neural Network 
 3. Bidirectional LSTM
-4. Cross-Lingual Word Vectors
 
 ### Advance ###
 1. Variational Auto-encoder Decoder 
 2. GANS
-3. Style Transfer 
+3. Cross-Lingual Word Vectors
+
+## Cool Stuf !! ##
+1. Translation with a Sequence to Sequence Network and Attention
+2. Style Transfer 
      1.  For Images 
      2.  For Text
-4. Caption Generator
-5. Image Segmentation
+3. Caption Generator
+4. Image Segmentation
+5. Temporal Convolutional Netwrok for Sentimental Analysis
+6. ChatBot Tutorials
 
 Note : Plan for RL is  yet to decide 
 
