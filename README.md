@@ -19,7 +19,8 @@ This project aims to develop a useful resource for learning Deep Learning and Re
 ### Advance ###
 1. Variational Auto-encoder Decoder 
 2. GANS
-3. Cross-Lingual Word Vectors
+3. CapsNet
+4. Cross-Lingual Word Vectors
 
 ### Cool Stuf !! ###
 1. Translation with a Sequence to Sequence Network and Attention
